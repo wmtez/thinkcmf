@@ -14,6 +14,7 @@ class PageApi
 {
     /**
      * 页面列表 用于导航选择
+     *
      * @return array
      */
     public function nav()
